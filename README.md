@@ -4,7 +4,7 @@
 
 
 ###
-- 🌱 I’m currently learning **DevOps - CI/CD**
+- 🌱 I’m currently learning **DevOps - AI/MLOps**
 
 - 👯 I am looking to collaborate on **DevOps Projects & Cloud native projects**
 
