@@ -14,11 +14,11 @@
 
 
 ###
-- 🌱 I’m currently learning **DevOps - AI/MLOps**
+- 🌱 I’m currently learning **AI/MLOps**
 
 - 👯 I am looking to collaborate on **DevOps Projects & Cloud native projects**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps/Automation**
 
 - 📫 How to reach me **masattar0782@gmail.com**
 
