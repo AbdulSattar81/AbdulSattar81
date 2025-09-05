@@ -34,10 +34,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
+  <a href="https://www.linkedin.com/in/abdul-sattar-mohammed-926126336/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+</a>
+  <a href="masattar0782@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+</a>
+  <a href="abdulsattar9" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-</div>
+</a>
+  </div>
 
 <br clear="both">
 
