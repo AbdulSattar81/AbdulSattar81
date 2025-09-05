@@ -1,15 +1,14 @@
-<!-- markdownlint-disable MD033 MD041 -->
+<h1 align="center">Hi everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<img width="3400" height="920" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/7fa58e7a-d176-4106-a4ee-f28fc2d006b2" 
+  <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevSecOps+Engineer!;Automate+|+Secure+|+Deploy+|+Repeat!;Building+secure+CI/CD+pipelines!;Build+powerful+DevSecOps+flows!&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+secure+CI/CD+pipelines!;Automate+|+Secure+|+Deploy+|+Repeat!;Build+powerful+DevSecOps+flows!&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center">
-
-
-<h1 align="center">Hi everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Abdul Sattar </h1>
 <h3>🚀 A passionate DevOps/DevSecOps Engineer! I specialize in building scalable CI/CD pipelines, automating workflows, and optimizing cloud infrastructures to drive innovation. 🌟</h3>
 <img align="right" height="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
 
