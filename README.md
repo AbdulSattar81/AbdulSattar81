@@ -30,13 +30,7 @@
 - 📫 How to reach me **mabdulsattar575@gmail.com**
 
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<div align="left">
-<a href="https://www.linkedin.com/in/abdulsattar81/">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
-</a>
-<a href="mailto:mabdulsattar575@gmail.com">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="47" height="35" alt="Gmail" />
 </a>
 <div
