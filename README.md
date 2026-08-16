@@ -66,7 +66,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </div>
 
-# 📊 GitHub Stats:
+<h3 align="left">GitHub Stats:</h3>
 ![](https://github-readme-stats.shion.dev/api?username=AbdulSattar81&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AbdulSattar81&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdulSattar81&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
