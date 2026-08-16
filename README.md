@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/abdulsattar81/">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
 </a>
 <a href="mailto:mabdulsattar575@gmail.com">
