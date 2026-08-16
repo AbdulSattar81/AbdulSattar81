@@ -5,6 +5,20 @@
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+secure+CI/CD+pipelines!;Automate+|+Secure+|+Deploy+|+Repeat!;Build+powerful+DevSecOps+flows!&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1500" alt="Example Usage - README Typing SVG">
+
+<p align="center">
+  <a href="mailto:masattar0782@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/YOUR-DISCORD-USER-ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-SRE%20%2F%20DevSecOps%20roles-2EA043?style=for-the-badge" alt="Open to work" />
+</p>
+  
 </p>
 <p align="center">
 <h3>🚀 A passionate DevOps Engineer/SRE! I specialize in building scalable CI/CD pipelines, automating workflows, and optimizing cloud infrastructures to drive innovation. 🌟</h3>
