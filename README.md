@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+resilient+systems!;Automate+%7C+Secure+%7C+Deploy+%7C+Repeat!;Monitoring+%7C+Incident+Response+%7C+Self-healing!&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1500" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+resilient+systems!;Automate+%7C+Secure+%7C+Deploy+%7C+Repeat!;Monitoring+%7C+Incident+Response+%7C+Self-healing&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1500" alt="Example Usage - README Typing SVG">
 
 
 
