@@ -66,12 +66,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </div>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulSattar81&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulSattar81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true" height="150" alt="languages graph" />
-</div>
-<br clear="both">
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdulSattar81&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" /> 
 
 # 📊 GitHub Stats:
