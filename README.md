@@ -29,8 +29,6 @@
 - 🎯 Currently seeking — Site Reliability / DevSecOps Engineer opportunities 
 - 📫 How to reach me **mabdulsattar575@gmail.com**
 
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
-
 </a>
 <div
 <br clear="both">
