@@ -71,5 +71,5 @@
 
 </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=AbdulSattar81&hide_border=true&theme=tokyonight" height="165" alt="Contribution streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AbdulSattar81&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" /> </p>
 
-<img src="https://img.shields.io/badge/GitHub-AbdulSattar81-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/badge/Open%20to-SRE%20%2F%20DevSecOps%20roles-2EA043?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/GitHub-AbdulSattar81-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/badge/Open%20to-SRE%20%2F%20DevSecOps%20roles-2EA043?style=for-the-badge" alt="Open to work" /> <a href=...>
 ###
