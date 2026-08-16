@@ -25,7 +25,7 @@
 <a href="mailto:masattar0782@gmail.com" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="47" height="35" alt="Gmail" />
 </a>
-</div>
+<div
 <br clear="both">
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">
