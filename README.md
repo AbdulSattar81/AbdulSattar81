@@ -98,4 +98,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdulSattar81&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulSattar81&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="165" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=AbdulSattar81&hide_border=true&theme=tokyonight" height="165" alt="Contribution streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AbdulSattar81&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" /> </p>
 
+
+<p align="center"> <i>Automate everything. Secure by default. Ship with confidence.</i> </p>
+
 ###
