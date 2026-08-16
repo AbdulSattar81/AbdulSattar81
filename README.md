@@ -19,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
 </a>
-<a href="mailto:masattar0782@gmail.com" target="_blank">
+<a href="mailto:mabdulsattar575@gmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="47" height="35" alt="Gmail" />
 </a>
 <div
@@ -58,7 +58,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </div>
-###
+
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulSattar81&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulSattar81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true" height="150" alt="languages graph" />
@@ -72,4 +72,3 @@
 </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=AbdulSattar81&hide_border=true&theme=tokyonight" height="165" alt="Contribution streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AbdulSattar81&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" /> </p>
 
 <img src="https://img.shields.io/badge/GitHub-AbdulSattar81-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/badge/Open%20to-SRE%20%2F%20DevSecOps%20roles-2EA043?style=for-the-badge" alt="Open to work" /> <a href=...>
-###
