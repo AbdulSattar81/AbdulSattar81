@@ -31,7 +31,6 @@
 
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="47" height="35" alt="Gmail" />
 </a>
 <div
 <br clear="both">
