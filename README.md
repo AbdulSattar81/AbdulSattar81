@@ -65,7 +65,7 @@
 </div>
 <br clear="both">
 
-<p/> align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdulSattar81&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdulSattar81&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" /> 
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulSattar81&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="165" alt="Top languages" /></p> 
 
